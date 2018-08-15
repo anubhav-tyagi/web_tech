@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<h2>Pseudo class</h2><hr>
+<h3>Anchor element</h3><hr>
+<style>
+a:link {
+color: red;
+}
+
+a:visited {
+color: green;
+}
+
+a:hover {
+color: hotpink;
+}
+
+/* selected link */
+a:active {
+color: blue;
+}
+</style>
+<p><b><a href="default.asp" target="_blank">This is a link</a></b></p>
+<p><b>Note:</b> a:hover MUST come after a:link and a:visited in the CSS definition in order to be effective.</p>
+<p><b>Note:</b> a:active MUST come after a:hover in the CSS definition in order to be effective.</p>
+<h3>div element</h3><hr>
+<style>
+div {
+background-color: red;
+color: white;
+padding: 25px;
+text-align: center;
+}
+div:hover {
+background-color: blue;
+}
+</style>
+<body>
+
+<p>Mouse over the div element below to change its background color:</p>
+
+<div><a href="Resume.html">Click for resume page</div>
+
+</body>
+</html>
