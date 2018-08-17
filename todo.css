@@ -1,0 +1,28 @@
+body{
+	background:light blue;
+}
+#special{
+	background:yellow;
+}
+a:link {
+    color: red;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: blue;
+}
+h1.redtext{
+			font-family: arial black;
+			color: blue;
+			font-size: 14 px;
+		}
+		h1.bluetext{
+			font-family: arail;
+			color:red;
+			font-size: 12 px;
+		}
