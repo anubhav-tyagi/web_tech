@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+  <!DOCTYPE company > 
+<company>
+ <employee>
+  <fname>Anubhav</fname> 
+  <lname>Tyagi</lname> 
+  <ID>001</ID> 
+ </employee>
+ <employee>
+  <fname>Ashish</fname> 
+  <lname>Kumar</lname> 
+  <ID>002</ID> 
+ </employee>
+ <employee>
+  <fname>Ankit</fname> 
+  <lname>Goel</lname> 
+  <ID>003</ID> 
+ </employee>
+</company>
