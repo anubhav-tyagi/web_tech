@@ -16,7 +16,7 @@
       <xs:element name="member" type="member"/>
     </xs:choice>
   </xs:complexType>
-</xs:element>
+</xs:element> 
 
 <xs:element name="person">
    <xs:complexType>
