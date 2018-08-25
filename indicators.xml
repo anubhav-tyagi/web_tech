@@ -9,7 +9,7 @@
   </xs:complexType>
 </xs:element>
 
-<xs:element name="person">
+<xs:element name="person"> 
   <xs:complexType>
     <xs:choice>
       <xs:element name="employee" type="employee"/>
