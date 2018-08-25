@@ -5,7 +5,7 @@
     <xs:all>
       <xs:element name="firstname" type="xs:string"/>
       <xs:element name="lastname" type="xs:string"/>
-    </xs:all>
+    </xs:all> 
   </xs:complexType>
 </xs:element>
 
