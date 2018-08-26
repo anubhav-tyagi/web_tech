@@ -8,7 +8,7 @@
     </xs:all> 
   </xs:complexType>
 </xs:element>
-
+ 
 <xs:element name="person"> 
   <xs:complexType>
     <xs:choice>
