@@ -2,7 +2,7 @@
 
 <xs:element name="person">
   <xs:complexType>
-    <xs:all> 
+    <xs:all>
       <xs:element name="firstname" type="xs:string"/>
       <xs:element name="lastname" type="xs:string"/>
     </xs:all>  
