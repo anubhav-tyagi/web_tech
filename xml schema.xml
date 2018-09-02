@@ -9,7 +9,7 @@ xsi:schemaLocation="schema.xsd">
   <heading>Reminder</heading>
   <body>Don't forget me this weekend!</body>
 </note>
- 
+
 XSD File -
 <?xml version="1.0"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
