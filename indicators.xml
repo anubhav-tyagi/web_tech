@@ -23,7 +23,7 @@
     <xs:sequence>
       <xs:element name="firstname" type="xs:string"/>
       <xs:element name="lastname" type="xs:string"/>
-    </xs:sequence>
+    </xs:sequence> 
   </xs:complexType>
 </xs:element>
  
