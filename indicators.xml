@@ -25,6 +25,4 @@
       <xs:element name="lastname" type="xs:string"/> 
     </xs:sequence>  
   </xs:complexType>
-</xs:element> 
-   
-
+</xs:element>
